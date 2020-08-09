@@ -15,13 +15,11 @@
         <base-bubble-1 style="transform: translate(5%, -5%)" />
 
         <base-heading class="info--text">
-          About Me
+          五十嵐伸雄とは
         </base-heading>
 
         <base-text class="mb-5">
-          Lorem ipsum dolor sit amet, consectetur adipi<br>
-          scin elit. Etiam vulputate augue vel felis gravida<br>
-          porta. Lorem ipsum dolor sit amet.
+          WEB、モバイルデベロッパーです。多言語のサイト制作からシステム開発まで請負います。
         </base-text>
 
         <base-subheading class="info--text">
@@ -29,8 +27,8 @@
         </base-subheading>
 
         <base-text class="mb-5">
-          Lorem ipsum dolor sit amet, consecte tur adipi scin e<br>
-          lit. Etiam vulputate augu e vel felis gravida porta.
+          言語：PHP, JavaScript, Objective-C, Swift<br>
+          フレームワーク：CakePHP, Zend
         </base-text>
 
         <v-alert
@@ -81,16 +79,20 @@
     data: () => ({
       skills: [
         {
-          name: 'Web Design',
-          value: 100,
+          name: 'PHP',
+          value: 70,
         },
         {
-          name: 'Web Development',
-          value: 75,
+          name: 'JavaScript',
+          value: 70,
         },
         {
-          name: 'Web Support',
-          value: 90,
+          name: 'Objective-C',
+          value: 60,
+        },
+        {
+          name: 'Swift',
+          value: 60,
         },
       ],
     }),
