@@ -43,9 +43,6 @@
               vida porta. Lorem ipsum dolor sit amet, cons
               ectetur adipiscing elit.
             </base-text>
-            <base-btn class="mt-4">
-              Learn More!
-            </base-btn>
           </v-col>
         </v-row>
 

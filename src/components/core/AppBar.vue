@@ -24,7 +24,7 @@
       large
       href="https://store.vuetifyjs.com/product/freelancer-theme-free?ref=freelancer"
     >
-      スキルシートダウンロード
+      スキルシートDL
 
       <v-icon
         right
